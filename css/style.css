@@ -1,0 +1,41 @@
+body {
+	font-size:18px; 
+	color:blue; 
+	background:#000000;
+    font-family: 'Lato', sans-serif;
+}
+#one-page{
+	background: black;
+    background-attachment: fixed;
+}
+#two-page{
+	background-image: url("img1.jpg");
+      background-repeat: no-repeat;
+}
+#three-page{
+	background: black;
+    color: blue; 
+    font-size:15px;
+	font-family:'Lato',sans-serif;
+}
+#contact{
+	color:white;
+	font-size:15px;
+	font-family:'Lato',sans-serif;
+}
+#adres{
+	color: blue;
+	font-family: 'Lato', sans-serif;
+}
+#pol{
+	color:orange;
+	font-family: 'Lato', sans-serif;	
+}
+#polone{
+	color:red;
+	font-family: 'Lato', sans-serif;	
+}
+#poltwo{
+	color:black;
+	font-family: 'Lato', sans-serif;	
+}
